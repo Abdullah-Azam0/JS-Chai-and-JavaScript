@@ -1,4 +1,4 @@
 # JS-Chai-and-JavaScript
 
 
-Author - Abdullah Azam
+Author - Abdullah Azam Khan
